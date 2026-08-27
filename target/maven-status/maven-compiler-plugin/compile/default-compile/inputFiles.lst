@@ -1,5 +1,9 @@
 D:\My_Memories\user-service\src\main\java\com\example\userservice\controller\UserController.java
+D:\My_Memories\user-service\src\main\java\com\example\userservice\entity\Favorite.java
 D:\My_Memories\user-service\src\main\java\com\example\userservice\entity\User.java
+D:\My_Memories\user-service\src\main\java\com\example\userservice\entity\VisitedPlace.java
+D:\My_Memories\user-service\src\main\java\com\example\userservice\repository\FavoriteRepository.java
 D:\My_Memories\user-service\src\main\java\com\example\userservice\repository\UserRepository.java
+D:\My_Memories\user-service\src\main\java\com\example\userservice\repository\VisitedPlaceRepository.java
 D:\My_Memories\user-service\src\main\java\com\example\userservice\service\UserService.java
 D:\My_Memories\user-service\src\main\java\com\example\userservice\UserServiceApplication.java
